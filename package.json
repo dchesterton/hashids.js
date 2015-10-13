@@ -1,0 +1,12 @@
+{
+  "name": "hashids",
+  "version": "1.0.2",
+  "homepage": "https://github.com/dchesterton/hashids.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dchesterton/hashids.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dchesterton/hashids.js.git/issues"
+  }
+}
